@@ -1,0 +1,13 @@
+name = "gpack"
+author = "vlasovich"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "50398f987751f506fce098354fdbe3706788007f94b9a419b7695116bb8adc9b"
+
+[versions]
+fabric = "0.18.2"
+minecraft = "1.20.1"
