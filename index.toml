@@ -2,27 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "51904b724fd8762c97dcb28daefe5940796494ea609fafe652f4d2332abb69f1"
+hash = "c72ebeb68ad5a54c5ffe8ea916acf1584b4171fe2d9be0523975586746ab2e59"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e65f1856eed8725712eb26dd607cbed73de44b430bb069ba543ff706b35b2603"
+hash = "b38c98a509f04f2721e0c030cb9e6410d42d266316767ce16a6b47656e8c407e"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+hash = "005c09fba7f8ce6e9966fc73914406e2a2b5e9179dbf4dfd82e8ea57ad9c5103"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+hash = "5cda5f9088650ebcccd99a7fb48f234115dc0a43a7c72b480d598a4986d0a613"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+hash = "2189db98aed03bc4516a7bef1aa2165a4495a8371b318b0285b59e6552faefcb"
 metafile = true
 
 [[files]]
