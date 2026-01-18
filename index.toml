@@ -1,6 +1,31 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "51904b724fd8762c97dcb28daefe5940796494ea609fafe652f4d2332abb69f1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "a3264074a1ea85a70d51ae26e77ebaccb7d3dccb95caab05a0e73c5fdef95822"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "daeaea0ce2c7764574e649afcb4556d6b8daf8a75798116ccbf1062d54692ca4"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "fd9530b12c0ef9527b042f409562f286924ac36ec94810df12419949a32c8958"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
-hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+hash = "c4e20c63f116b861de0d200f3d88f7e1f3980b76e421ec9412032cbcbbe3f390"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
