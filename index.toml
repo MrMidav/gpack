@@ -1,4 +1,5 @@
 hash-format = "sha256"
+<<<<<<< HEAD
 
 [[files]]
 file = "mods/sodium.pw.toml"
@@ -9,3 +10,6 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
+=======
+files = []
+>>>>>>> fc6ca5a (test)

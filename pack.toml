@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name = "gpack"
+=======
+name = "vanillatest"
+>>>>>>> fc6ca5a (test)
 author = "vlasovich"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +10,14 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "8b081863d216db1a7e8be1616c73abe01026faef7a008809c7f063723673af69"
 
 [versions]
 fabric = "0.18.4"
+=======
+hash = "7b81c9e9d9e6e21a9865a2dded0dfd77e7683d679b98fe5b0114eaed9a31f17e"
+
+[versions]
+>>>>>>> fc6ca5a (test)
 minecraft = "1.21.11"
