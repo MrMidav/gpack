@@ -11,9 +11,12 @@ pack-format = "packwiz:1.1.0"
 file = "index.toml"
 hash-format = "sha256"
 <<<<<<< HEAD
+<<<<<<< HEAD
 hash = "7b8afaf8028c5dbe51de82544dbe79dbb4714e5a7df1065b3b93de2f09f99bb6"
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> b1d914e85dde8542a5e1dfedeb0ff3d4817b7a32
 hash = "8b081863d216db1a7e8be1616c73abe01026faef7a008809c7f063723673af69"
 >>>>>>> b1d914e85dde8542a5e1dfedeb0ff3d4817b7a32
 
