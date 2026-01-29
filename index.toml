@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "bg.webp"
+hash = "4ac85c174df9501a99b43a6ed38d82f8a92823201d210451fb620914045a0051"
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
 metafile = true
