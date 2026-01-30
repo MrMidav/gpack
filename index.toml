@@ -21,18 +21,8 @@ hash = "e661900027e02f1d44f54559e8d67a0b3b507b831be4eb05ab73a0133b22791e"
 metafile = true
 
 [[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "58a2a2100217162588901dcc251a93e2470f9013794a09d74388456833c5829e"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "825d339a134c23d75979be06292b9d85ba07edcfd3787f59439136ff8b08805c"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "59214e9768dbe9b927f03fe53859cedba210498174da1e46dd4a3edaa6558f7f"
 metafile = true
 
 [[files]]
@@ -41,18 +31,8 @@ hash = "276947b1f9933ca2220a00736aba177e4034ca9a45cad9f258abf762fdb3bb0b"
 metafile = true
 
 [[files]]
-file = "mods/konkrete.pw.toml"
-hash = "ec7dc6f7a704b1db636a03f2a3f672c8d0af0eddb7d4ef2f209f292a425b2dc8"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "71255e25b05b6529d6a2873e4db079b7b6541f58a78d872bc19478afcb0ffd1c"
-metafile = true
-
-[[files]]
-file = "mods/melody.pw.toml"
-hash = "82fd0eb11d81d2f699b8de287d5451abc34af979df6ec85bee5dfd07709567da"
 metafile = true
 
 [[files]]
@@ -68,11 +48,6 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
-metafile = true
-
-[[files]]
-file = "mods/reimagined-intro.pw.toml"
-hash = "76d834b3b8456d765f024151ae4596bf7580c6881d8b4f6b13d1d218ce6d2581"
 metafile = true
 
 [[files]]
