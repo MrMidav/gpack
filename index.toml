@@ -1,0 +1,110 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "904365e7891802e522e5a35189b7039e18f56a22ab30bd99af59b97ec4b7468e"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "e19edfaebfc436b6355adc94d4517192adb78b964a98d755ecf2b2d97a318224"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "2515110b3990de9703158168c22b4ecafc739c399e421daedbfba24442224ba5"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "e661900027e02f1d44f54559e8d67a0b3b507b831be4eb05ab73a0133b22791e"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "58a2a2100217162588901dcc251a93e2470f9013794a09d74388456833c5829e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "825d339a134c23d75979be06292b9d85ba07edcfd3787f59439136ff8b08805c"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "59214e9768dbe9b927f03fe53859cedba210498174da1e46dd4a3edaa6558f7f"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "276947b1f9933ca2220a00736aba177e4034ca9a45cad9f258abf762fdb3bb0b"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "ec7dc6f7a704b1db636a03f2a3f672c8d0af0eddb7d4ef2f209f292a425b2dc8"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "71255e25b05b6529d6a2873e4db079b7b6541f58a78d872bc19478afcb0ffd1c"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "82fd0eb11d81d2f699b8de287d5451abc34af979df6ec85bee5dfd07709567da"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+metafile = true
+
+[[files]]
+file = "mods/reimagined-intro.pw.toml"
+hash = "76d834b3b8456d765f024151ae4596bf7580c6881d8b4f6b13d1d218ce6d2581"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "2c4c5f6afde7fc7a310ecb7e9afd2f28e0e62d3f41c26ea4367b925622cc9bb0"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "ee63322f2464e89370cf12c55740929876bf4591ab17b1ff4204d331c5cd272f"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "840df7661c1bbb97312f39102d479d80b2b149da533c623f633d9715295ca91c"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "7802f8fb07b048d1b723dd64a211017c235d2d948f66baf132ae411a42dc3205"

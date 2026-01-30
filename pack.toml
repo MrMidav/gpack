@@ -1,0 +1,13 @@
+name = "Vanilla Season 6"
+author = "vlasovich"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2f7a181f2b7a7120a84dce700740c9e50d731d824c24fe9856d398294d939552"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"
