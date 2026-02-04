@@ -26,6 +26,11 @@ hash = "825d339a134c23d75979be06292b9d85ba07edcfd3787f59439136ff8b08805c"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "276947b1f9933ca2220a00736aba177e4034ca9a45cad9f258abf762fdb3bb0b"
 metafile = true
@@ -33,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "71255e25b05b6529d6a2873e4db079b7b6541f58a78d872bc19478afcb0ffd1c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
 metafile = true
 
 [[files]]
@@ -48,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
 
 [[files]]
@@ -73,11 +88,6 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "ee63322f2464e89370cf12c55740929876bf4591ab17b1ff4204d331c5cd272f"
-metafile = true
-
-[[files]]
-file = "mods/voxy.pw.toml"
-hash = "840df7661c1bbb97312f39102d479d80b2b149da533c623f633d9715295ca91c"
 metafile = true
 
 [[files]]
