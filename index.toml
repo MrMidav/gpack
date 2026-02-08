@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "f2fbd741090c80f8a4bb8d27fc9731e3b679c64807722ec510b764c9f57f3256"
+
+[[files]]
+file = "config/inventoryprofilesnext/pixie.einarjegorov.com&25565/lockSlots.txt"
+hash = "fde6cc146065dc5ca39a1bfb9d562e0ad95a378d29a938390cd1963186e2356e"
+
+[[files]]
+file = "config/inventoryprofilesnext/pixie.einarjegorov.com&25565/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "904365e7891802e522e5a35189b7039e18f56a22ab30bd99af59b97ec4b7468e"
 metafile = true
@@ -32,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
+hash = "b17d6a857c81a6692fed9431d7b7defc1a9546e3e6a299fb287d2d58b44c819f"
 metafile = true
 
 [[files]]
@@ -57,17 +73,17 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "61e1149d5642bb6bd3d2c718054107fa7a6f1b1044f5573d5ecbab3b94f9e281"
+hash = "e77f26bbef9da52a1c1fe5f32eb91fe647ae4e62bc2734d3e8f894c25f3c019e"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
+hash = "831a82763a6dfcdc3ec08c4dd387f12efa09c986e0c2ff48c500c4333038288a"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "6324b634d5e464cf2606cce4e1d9b923701cad31764858d982fe0738129e0e4e"
+hash = "554f0305025ef26b68e26554cb5fbf97ffd7aefe5ba306619f98684436569272"
 metafile = true
 
 [[files]]
@@ -87,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+hash = "26f917bd8375d8bef56bc2976ce6ac0f36e1a08398fbc6cad4ee637f1638f158"
 metafile = true
 
 [[files]]
