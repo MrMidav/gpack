@@ -132,5 +132,25 @@ hash = "ee63322f2464e89370cf12c55740929876bf4591ab17b1ff4204d331c5cd272f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Muslim pack 1.21/assets/minecraft/sounds/mob/creeper/death.ogg"
+hash = "1c0707a489d65b42a420d48220e88767ae78a00ce6c0bbdb86c3ad3212a5e2f9"
+
+[[files]]
+file = "resourcepacks/Muslim pack 1.21/assets/minecraft/sounds/random/fuse.ogg"
+hash = "9b8596cedcf29d6550937d73dab29ee7868ed95a37c5cef744c4d5f8b677337c"
+
+[[files]]
+file = "resourcepacks/Muslim pack 1.21/assets/minecraft/textures/entity/creeper/creeper.png"
+hash = "6d180ac5da6997ba4e57ebbd3afa7d3da92bbceee17755aee13aff438b55fada"
+
+[[files]]
+file = "resourcepacks/Muslim pack 1.21/assets/minecraft/textures/entity/creeper/creeper_armor.png"
+hash = "68701aea43ac6ac7822047daab32c4c46df305834a73ff5838a9917e7939a2b6"
+
+[[files]]
+file = "resourcepacks/Muslim pack 1.21/pack.mcmeta"
+hash = "438665887cd7f2f43b4d33512c317bf995e5c520bdb250415dbc9ba89f983e25"
+
+[[files]]
 file = "servers.dat"
 hash = "c060c18ce52b9301db5bc33b8dafe9963b39d61f2be3f1fecd53d22de85a8ad4"
