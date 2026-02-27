@@ -72,6 +72,11 @@ hash = "036576f257416774276edc60372a1265f28dd6bec765c72fef9aa9d164f2a148"
 metafile = true
 
 [[files]]
+file = "mods/litematica-printer.pw.toml"
+hash = "768c36c17e7d8215085eecc29152bc04eb23ed18df6350210ee234215cbac1ae"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "e77f26bbef9da52a1c1fe5f32eb91fe647ae4e62bc2734d3e8f894c25f3c019e"
 metafile = true
