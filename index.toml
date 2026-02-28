@@ -102,6 +102,11 @@ hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "62757d6d2b91ff8bc8e43d29a9b511724b07c45f72d60445f1c2341a5d2586c4"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "26f917bd8375d8bef56bc2976ce6ac0f36e1a08398fbc6cad4ee637f1638f158"
 metafile = true
@@ -124,6 +129,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "c1166e4664aa67501d4daafac5e69cb29094dd46942d35e64b4d5d8a0a54decd"
 metafile = true
 
 [[files]]
