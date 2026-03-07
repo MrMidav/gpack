@@ -5,6 +5,11 @@ file = "bg.webp"
 hash = "4ac85c174df9501a99b43a6ed38d82f8a92823201d210451fb620914045a0051"
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "06f573e085119fa750cb3a5e45a551f05ae3cb77a5c4ba90bc0137c56e6b03ab"
 metafile = true
