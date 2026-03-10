@@ -142,6 +142,11 @@ hash = "ee63322f2464e89370cf12c55740929876bf4591ab17b1ff4204d331c5cd272f"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "71c91341cc8ac8773b839d7ca822d8d7084c11a3012e13a10ef0de6daff93796"
+metafile = true
+
+[[files]]
 file = "resourcepacks/Muslim pack 1.21/assets/minecraft/sounds/mob/creeper/death.ogg"
 hash = "1c0707a489d65b42a420d48220e88767ae78a00ce6c0bbdb86c3ad3212a5e2f9"
 
