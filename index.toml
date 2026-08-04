@@ -6,6 +6,11 @@ hash = "a4931e5abbec081a08ab3a1d69b2d470596b6361d707a7756f6ad34c0f21f81e"
 metafile = true
 
 [[files]]
+file = "mods/create-chipped.pw.toml"
+hash = "6554d092672b4c8c926ae07802fc1e1cae1a27ba8b21eb7ded867e00c969f366"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
