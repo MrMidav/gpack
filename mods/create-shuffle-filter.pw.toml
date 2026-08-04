@@ -3,11 +3,11 @@ filename = "create-shufflefilter-2.1.1-neo.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gv5RRavC/versions/5DJFXpjO/create-shufflefilter-2.1.1-neo.jar"
-hash-format = "sha512"
-hash = "feafdbf23216200af2ec005942438cb806c4731b7e70b68aada18920a75dfc9c23d2616ea4486e96efad0dd0609b6e4c8c575a1a880f9567e8995313f876438f"
+hash-format = "sha1"
+hash = "850e541c5ce470fd3c7a487996aa827d9765f0d8"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "gv5RRavC"
-version = "5DJFXpjO"
+[update.curseforge]
+file-id = 8431191
+project-id = 1357568
