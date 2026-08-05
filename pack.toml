@@ -1,11 +1,12 @@
-name = "Gpack"
+name = "Дэбилы: Create Aeronautics"
+author = "vlasovich"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ea59f4a52dc3172985a83d7ca0ddc6052f61884b680a561673206970b97fdf6b"
+hash = "284702bd1106ed474431e86a5b9558ed3c4fff88d46724ba4994e9c9c9f172f5"
 
 [versions]
 minecraft = "1.21.1"

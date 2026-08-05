@@ -3,11 +3,11 @@ filename = "gravestone-neoforge-1.21.1-1.0.38.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2b6d5ff95bb80d811eac78d0556ee384125bca9d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/RYtXKJPr/versions/3a6KIbgL/gravestone-neoforge-1.21.1-1.0.38.jar"
+hash-format = "sha512"
+hash = "ee97b54ab9c33cafbe236c7a9805298dfab2004b9f94144ce656e9929839ee9a50f29cdfb4dffde85b64faa5e3c0f989aacee4204c2d0f0ca9b80bfdffe5d12e"
 
 [update]
-[update.curseforge]
-file-id = 8540853
-project-id = 238551
+[update.modrinth]
+mod-id = "RYtXKJPr"
+version = "3a6KIbgL"
