@@ -1,13 +1,13 @@
-name = "Дэбилы: Create Aeronautics"
+name = "Дэбилы: Create Aeronautics - Backup #1"
 author = "vlasovich"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dcaa9d7d44f0f7e82cc34653e22db549ad0b6890a51aeddeb9118950db4cbeec"
+hash = "52552c2e62ccc9e08dd77cd8e51a1b4e2170309bdd918cec40133698c2abdd0f"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.233"
+neoforge = "21.1.238"
