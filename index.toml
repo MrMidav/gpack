@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "exec.go"
-hash = "0f45805bfd8dabb3a02038d22383479d925b6d08c8c78c303ddcd8c97a02582f"
-
-[[files]]
-file = "go.mod"
-hash = "c45d5cf6099c65b075563bafbebfef76a0a0311cf1e94d546d0f94ac06f9d577"
-
-[[files]]
-file = "main.go"
-hash = "188be2fd1beed75b914996b0861fc6a89eb6e612b31cac2e002b9dc7cc6d2f8a"
-
-[[files]]
-file = "models.go"
-hash = "4652fa009ba161dfd6b8edbf2b17f0e8e6d3405c7ac78bd4207ed4edf014a586"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
@@ -549,3 +533,7 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "3a3232fe9c61f1e705b1000f0aa6f1e0c4b28df7abca6e0cd8fbc53b149795bb"
